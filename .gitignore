@@ -1,1 +1,15 @@
+# Dane z Kaggle (~1,4 GB) — pobierz samodzielnie, patrz README
 data/
+
+# macOS
+.DS_Store
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Rzeczy do ręcznego usunięcia
+_to_delete/

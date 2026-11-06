@@ -1,10 +1,10 @@
-# Wersje z ostatniego pełnego uruchomienia notebooka 02 (Python 3.14)
+# Versions from the last full run of notebook 02 (Python 3.14)
 pandas==3.0.3
 numpy==2.4.4
 scikit-learn==1.8.0
 lightgbm==4.6.0
 xgboost==3.2.0
-# Wersje poniższych nie zostały zapisane w notebooku
+# Versions of the packages below were not recorded in the notebook
 scipy
 matplotlib
 seaborn

@@ -1,4 +1,4 @@
-# Dane z Kaggle (~1,4 GB) — pobierz samodzielnie, patrz README
+# Kaggle data (~1.4 GB) — download it yourself, see README
 data/
 
 # macOS
@@ -11,5 +11,5 @@ __pycache__/
 .venv/
 venv/
 
-# Rzeczy do ręcznego usunięcia
+# Files waiting to be deleted by hand
 _to_delete/

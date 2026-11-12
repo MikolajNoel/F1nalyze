@@ -9,3 +9,4 @@ scipy
 matplotlib
 seaborn
 jupyter
+plotly  # optional: interactive charts in notebook 00

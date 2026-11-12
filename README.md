@@ -36,6 +36,8 @@ The hardest class is podium; the best boosting model most often confuses it with
 
 | File | Description |
 |---|---|
+| `00_dataset_overview.ipynb` | Dataset presentation: variable dictionary, missingness, target, EDA charts, strengths/weaknesses |
+| `gen_dataset_overview.py` | **Generator** of notebook 00. Make changes here, not in the `.ipynb` |
 | `01_phase1_data_profiling.ipynb` | Data profiling, discovering the broken join, class distribution |
 | `02_modeling_classification.ipynb` | Data repair, EDA, feature engineering, models, evaluation |
 | `gen_notebook.py` | **Generator** of notebook 02. Make changes here, not in the `.ipynb` |
